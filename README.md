@@ -2,7 +2,7 @@
 
 A simple to-do list that stays open in the Google Chrome side panel while you browse.
 
----
+
 
 ## What it does
 
@@ -11,7 +11,7 @@ A simple to-do list that stays open in the Google Chrome side panel while you br
 * **Basic task tools:** You can add new tasks, delete specific ones, or clear the whole list at once.
 * **Simple icons:** Includes clean icons designed to look sharp in the browser toolbar.
 
----
+
 
 ## How to install it
 
@@ -21,7 +21,7 @@ A simple to-do list that stays open in the Google Chrome side panel while you br
 4. Click **Load unpacked** and select the folder where you saved the files.
 5. Click the puzzle icon in Chrome and **Pin** Side Tasker to see it in your toolbar.
 
----
+
 
 ## Files in this project
 
@@ -32,7 +32,7 @@ A simple to-do list that stays open in the Google Chrome side panel while you br
 * **script.js**: The code that makes the "Add" and "Delete" buttons work.
 * **background.js**: The code that tells Chrome to use the side panel.
 
----
+
 
 ## License
 
