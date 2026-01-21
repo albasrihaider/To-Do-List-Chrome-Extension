@@ -2,6 +2,8 @@
 
 A simple to-do list that stays open in the Google Chrome side panel while you browse.
 
+<img width="403" height="544" alt="image" src="https://github.com/user-attachments/assets/be6a2d15-decf-4739-bb48-fd330f319eb0" />
+
 
 
 ## What it does
